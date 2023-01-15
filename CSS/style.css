@@ -169,7 +169,7 @@ hr{
 #skill-cloud{
     position: absolute;
     left: 60px;
-    top:1050px;
+    top:1000px;
     width: 20%;
     height: auto;
 }
@@ -177,14 +177,14 @@ hr{
 #contact-cloud{
     position: absolute;
     right: 100px;
-    top: 1890px;
+    top: 1860px;
     width: 15%;
 }
 
 #contact2-cloud{
     position: absolute;
     left: 150px;
-    top: 1800px;
+    top: 1790px;
     width: 10%;
 }
 
